@@ -3,7 +3,6 @@
 Projekt konsolowej gry **Reversi** napisanej w języku C++. Gra umożliwia rozgrywkę między dwoma graczami (człowiek-człowiek, człowiek-komputer, komputer-komputer), z możliwością zapisu i wczytywania stanu gry.
 
 ## Opis
-![Rozgrywka](1.png)
 
 Gra rozpoczyna się ekranem powitalnym oraz wyświetleniem zasad. Gracz wybiera, czy chce rozpocząć nową grę, czy wczytać zapisany stan. W zależności od konfiguracji, może grać człowiek lub komputer.
 
